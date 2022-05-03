@@ -29,28 +29,31 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 282360,
-      "jF" : 0,
+    "\/deploy\/img\/hero.png" : {
+      "ft" : 32768,
+      "iS" : 2531603,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero.jpg",
+      "oAP" : "\/deploy\/img\/hero.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/logo.svg",
+    "\/deploy\/img\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 3623,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/logo.png",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
